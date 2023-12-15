@@ -1,0 +1,6 @@
+func.cpp
+setup.py
+cpptorch.egg-info/PKG-INFO
+cpptorch.egg-info/SOURCES.txt
+cpptorch.egg-info/dependency_links.txt
+cpptorch.egg-info/top_level.txt
