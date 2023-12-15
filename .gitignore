@@ -22,6 +22,8 @@ study_pybind_eigen_numpy/build_
 study_pybind_eigen_numpy/gss_same_matrix.egg-info
 study_pybind_eigen_numpy/pybid11
 
+study_cmake_pytorch_extesion_cuda/build
+study_cmake_pytorch_extesion_cuda/build_
 
 .gitignore
 

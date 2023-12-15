@@ -1,4 +1,5 @@
 ```shell
+conda activate cppcuda
 mkdir build_
 cd build_
 

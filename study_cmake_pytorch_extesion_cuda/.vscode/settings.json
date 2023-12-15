@@ -1,0 +1,4 @@
+{
+    "cmake.configureArgs": ["-DCMAKE_PREFIX_PATH=/home/cola/anaconda3/envs/cppcuda/lib/python3.8/site-packages/torch/share/cmake"], 
+    "cmake.configureOnEdit": false
+}
