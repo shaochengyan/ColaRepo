@@ -16,3 +16,6 @@ study_pytorch_cuda_extension/build_
 
 study_pytorch_cuda_extension_framework/build
 study_pytorch_cuda_extension_framework/build_
+
+
+run_git_push.sh
