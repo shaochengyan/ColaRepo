@@ -28,4 +28,4 @@ target_compile_features(pytorch_cmake_example PRIVATE cxx_std_11)
 target_link_libraries(pytorch_cmake_example PRIVATE ${TORCH_LIBRARIES} Python::Python)
 
 # 这句话用于为CUDA编译选项设置g++编译器的路径。这通常用于指定CUDA代码的编译器。
-target_compile_options(pytorch_cmake_example PRIVATE $<$<COMPILE_LANGUAGE:CUDA>:-ccbin g++-9>)
+# target_compile_options(pytorch_cmake_example PRIVATE $<$<COMPILE_LANGUAGE:CUDA>:-ccbin g++-9>)

@@ -27,4 +27,13 @@ study_cmake_pytorch_extesion_cuda/build_
 
 .gitignore
 
+proj_hpc/*
+!proj_hpc/*.cpp
+!proj_hpc/*.h
+!proj_hpc/*.cu
+!proj_hpc/*.cuh
+!proj_hpc/*.py
+!proj_hpc/*.md
+!proj_hpc/*.ipynb
+
 run_git_push.sh
