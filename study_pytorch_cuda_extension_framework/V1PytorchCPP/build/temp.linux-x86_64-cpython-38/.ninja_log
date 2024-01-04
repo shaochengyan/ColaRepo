@@ -1,2 +1,5 @@
 # ninja log v5
 0	10327	1702453941190613152	/home/cola/ColaCoding/ColaStudy/PytorchCudaStudy_test1/build/temp.linux-x86_64-cpython-38/func.o	98e62662d2ff842c
+0	10406	1703950579070465584	/home/cola/ColaCoding/ColaResp/study_pytorch_cuda_extension_framework/V1PytorchCPP/build/temp.linux-x86_64-cpython-38/func.o	885d9c3b69a701b8
+4	10162	1703950717731780401	/home/cola/ColaCoding/ColaResp/study_pytorch_cuda_extension_framework/V1PytorchCPP/build/temp.linux-x86_64-cpython-38/func.o	885d9c3b69a701b8
+5	10129	1703950769380271027	/home/cola/ColaCoding/ColaResp/study_pytorch_cuda_extension_framework/V1PytorchCPP/build/temp.linux-x86_64-cpython-38/func.o	885d9c3b69a701b8

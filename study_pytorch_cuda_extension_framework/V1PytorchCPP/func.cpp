@@ -4,6 +4,7 @@ torch::Tensor tensorAdd(
     torch::Tensor a, 
     torch::Tensor b
 ) {
+    a[0] = -888888;
     return a + b;
 }
 

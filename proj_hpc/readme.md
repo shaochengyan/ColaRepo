@@ -1,3 +1,6 @@
+- `exp_evaluation.cpp` 导出接口到 Python
+- `main.cpp` C++中的测试
+
 # 项目说明
 - 利用 cuda 对三线性插值进行加速
 - 编译可以用 CMake 来编译 libtorch, 也可以用 setup 安装为 python 的库
@@ -6,6 +9,7 @@
 完成了
 - 在 C++ 中用 libtorch 进行测试
 - 将实验接口导出到了 Python, 方便 Python 端进行调用
+
 
 
 

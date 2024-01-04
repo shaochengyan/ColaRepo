@@ -12,7 +12,7 @@ rule compile
 
 
 
-build /home/cola/ColaCoding/ColaStudy/PytorchCudaStudy_test1/build/temp.linux-x86_64-cpython-38/func.o: compile /home/cola/ColaCoding/ColaStudy/PytorchCudaStudy_test1/func.cpp
+build /home/cola/ColaCoding/ColaResp/study_pytorch_cuda_extension_framework/V1PytorchCPP/build/temp.linux-x86_64-cpython-38/func.o: compile /home/cola/ColaCoding/ColaResp/study_pytorch_cuda_extension_framework/V1PytorchCPP/func.cpp
 
 
 
